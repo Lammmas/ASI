@@ -1,0 +1,1795 @@
+.pb-1 {
+    padding-bottom: 1em;
+}
+
+.result {
+    .panel-footer {
+        border: none;
+        background-color: #fff;
+    }
+}
+
+.panel-body {
+    .description {
+        display: -webkit-box;
+        max-width: 400px;
+        height: 3em;
+        margin: 0 auto;
+        font-size: 1em;
+        line-height: 1.4em;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
+
+.lang-color {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #ccc;
+
+    &.1C.Enterprise {
+        background-color: #814CCC;
+    }
+
+
+    &.ABAP {
+        background-color: #E8274B;
+    }
+
+
+    &.ActionScript {
+        background-color: #882B0F;
+    }
+
+
+    &.Ada {
+        background-color: #02f88c;
+    }
+
+
+    &.Agda {
+        background-color: #315665;
+    }
+
+
+    &.AGS.Script {
+        background-color: #B9D9FF;
+    }
+
+
+    &.Alloy {
+        background-color: #64C800;
+    }
+
+
+    &.Alpine.Abuild {
+        background-color: #ccc;
+    }
+
+
+    &.AMPL {
+        background-color: #E6EFBB;
+    }
+
+
+    &.ANTLR {
+        background-color: #9DC3FF;
+    }
+
+
+    &.Apex {
+        background-color: #ccc;
+    }
+
+
+    &.API.Blueprint {
+        background-color: #2ACCA8;
+    }
+
+
+    &.APL {
+        background-color: #5A8164;
+    }
+
+
+    &.Apollo Guidance Computer {
+        background-color: #ccc;
+    }
+
+
+    &.AppleScript {
+        background-color: #101F1F;
+    }
+
+
+    &.Arc {
+        background-color: #aa2afe;
+    }
+
+
+    &.Arduino {
+        background-color: #bd79d1;
+    }
+
+
+    &.ASP {
+        background-color: #6a40fd;
+    }
+
+
+    &.AspectJ {
+        background-color: #a957b0;
+    }
+
+
+    &.Assembly {
+        background-color: #6E4C13;
+    }
+
+
+    &.ATS {
+        background-color: #1ac620;
+    }
+
+
+    &.Augeas {
+        background-color: #ccc;
+    }
+
+
+    &.AutoHotkey {
+        background-color: #6594b9;
+    }
+
+
+    &.AutoIt {
+        background-color: #1C3552;
+    }
+
+
+    &.Awk {
+        background-color: #ccc;
+    }
+
+
+    &.Batchfile {
+        background-color: #C1F12E;
+    }
+
+
+    &.Befunge {
+        background-color: #ccc;
+    }
+
+
+    &.Bison {
+        background-color: #ccc;
+    }
+
+
+    &.BitBake {
+        background-color: #ccc;
+    }
+
+
+    &.BlitzBasic {
+        background-color: #ccc;
+    }
+
+
+    &.BlitzMax {
+        background-color: #cd6400;
+    }
+
+
+    &.Bluespec {
+        background-color: #ccc;
+    }
+
+
+    &.Boo {
+        background-color: #d4bec1;
+    }
+
+
+    &.Brainfuck {
+        background-color: #2F2530;
+    }
+
+
+    &.Brightscript {
+        background-color: #ccc;
+    }
+
+
+    &.Bro {
+        background-color: #ccc;
+    }
+
+
+    &.C {
+        background-color: #555555;
+    }
+
+
+    &.Csharp {
+        background-color: #178600;
+    }
+
+
+    &.Cplusplus {
+        background-color: #f34b7d;
+    }
+
+
+    &.C2hs.Haskell {
+        background-color: #ccc;
+    }
+
+
+    &.Capn.Proto {
+        background-color: #ccc;
+    }
+
+
+    &.CartoCSS {
+        background-color: #ccc;
+    }
+
+
+    &.Ceylon {
+        background-color: #ccc;
+    }
+
+
+    &.Chapel {
+        background-color: #8dc63f;
+    }
+
+
+    &.Charity {
+        background-color: #ccc;
+    }
+
+
+    &.ChucK {
+        background-color: #ccc;
+    }
+
+
+    &.Cirru {
+        background-color: #ccccff;
+    }
+
+
+    &.Clarion {
+        background-color: #db901e;
+    }
+
+
+    &.Clean {
+        background-color: #3F85AF;
+    }
+
+
+    &.Click {
+        background-color: #E4E6F3;
+    }
+
+
+    &.CLIPS {
+        background-color: #ccc;
+    }
+
+
+    &.Clojure {
+        background-color: #db5855;
+    }
+
+
+    &.CMake {
+        background-color: #ccc;
+    }
+
+
+    &.COBOL {
+        background-color: #ccc;
+    }
+
+
+    &.CoffeeScript {
+        background-color: #244776;
+    }
+
+
+    &.ColdFusion {
+        background-color: #ed2cd6;
+    }
+
+
+    &.ColdFusion.CFC {
+        background-color: #ccc;
+    }
+
+
+    &.Common.Lisp {
+        background-color: #3fb68b;
+    }
+
+
+    &.Component.Pascal {
+        background-color: #B0CE4E;
+    }
+
+
+    &.Cool {
+        background-color: #ccc;
+    }
+
+
+    &.Coq {
+        background-color: #ccc;
+    }
+
+
+    &.Crystal {
+        background-color: #776791;
+    }
+
+
+    &.Csound {
+        background-color: #ccc;
+    }
+
+
+    &.Csound.Document {
+        background-color: #ccc;
+    }
+
+
+    &.Csound.Score {
+        background-color: #ccc;
+    }
+
+
+    &.CSS {
+        background-color: #563d7c;
+    }
+
+
+    &.Cuda {
+        background-color: #3A4E3A;
+    }
+
+
+    &.CWeb {
+        background-color: #ccc;
+    }
+
+
+    &.Cycript {
+        background-color: #ccc;
+    }
+
+
+    &.Cython {
+        background-color: #ccc;
+    }
+
+
+    &.D {
+        background-color: #ba595e;
+    }
+
+
+    &.Dart {
+        background-color: #00B4AB;
+    }
+
+
+    &.DIGITAL Command Language {
+        background-color: #ccc;
+    }
+
+
+    &.DM {
+        background-color: #447265;
+    }
+
+
+    &.Dogescript {
+        background-color: #cca760;
+    }
+
+
+    &.DTrace {
+        background-color: #ccc;
+    }
+
+
+    &.Dylan {
+        background-color: #6c616e;
+    }
+
+
+    &.E {
+        background-color: #ccce35;
+    }
+
+
+    &.Eagle {
+        background-color: #814C05;
+    }
+
+
+    &.eC {
+        background-color: #913960;
+    }
+
+
+    &.ECL {
+        background-color: #8a1267;
+    }
+
+
+    &.ECLiPSe {
+        background-color: #ccc;
+    }
+
+
+    &.Eiffel {
+        background-color: #946d57;
+    }
+
+
+    &.Elixir {
+        background-color: #6e4a7e;
+    }
+
+
+    &.Elm {
+        background-color: #60B5CC;
+    }
+
+
+    &.Emacs.Lisp {
+        background-color: #c065db;
+    }
+
+
+    &.EmberScript {
+        background-color: #FFF4F3;
+    }
+
+
+    &.EQ {
+        background-color: #a78649;
+    }
+
+
+    &.Erlang {
+        background-color: #B83998;
+    }
+
+
+    &.Fsharp {
+        background-color: #b845fc;
+    }
+
+
+    &.Factor {
+        background-color: #636746;
+    }
+
+
+    &.Fancy {
+        background-color: #7b9db4;
+    }
+
+
+    &.Fantom {
+        background-color: #14253c;
+    }
+
+
+    &.Filebench.WML {
+        background-color: #ccc;
+    }
+
+
+    &.Filterscript {
+        background-color: #ccc;
+    }
+
+
+    &.fish {
+        background-color: #ccc;
+    }
+
+
+    &.FLUX {
+        background-color: #88ccff;
+    }
+
+
+    &.Forth {
+        background-color: #341708;
+    }
+
+
+    &.Fortran {
+        background-color: #4d41b1;
+    }
+
+
+    &.FreeMarker {
+        background-color: #0050b2;
+    }
+
+
+    &.Frege {
+        background-color: #00cafe;
+    }
+
+
+    &.Game Maker Language {
+        background-color: #8fb200;
+    }
+
+
+    &.GAMS {
+        background-color: #ccc;
+    }
+
+
+    &.GAP {
+        background-color: #ccc;
+    }
+
+
+    &.GCC Machine Description {
+        background-color: #ccc;
+    }
+
+
+    &.GDB {
+        background-color: #ccc;
+    }
+
+
+    &.GDScript {
+        background-color: #ccc;
+    }
+
+
+    &.Genie {
+        background-color: #fb855d;
+    }
+
+
+    &.Genshi {
+        background-color: #ccc;
+    }
+
+
+    &.Gentoo.Ebuild {
+        background-color: #ccc;
+    }
+
+
+    &.Gentoo.Eclass {
+        background-color: #ccc;
+    }
+
+
+    &.Gherkin {
+        background-color: #5B2063;
+    }
+
+
+    &.GLSL {
+        background-color: #ccc;
+    }
+
+
+    &.Glyph {
+        background-color: #e4cc98;
+    }
+
+
+    &.Gnuplot {
+        background-color: #f0a9f0;
+    }
+
+
+    &.Go {
+        background-color: #375eab;
+    }
+
+
+    &.Golo {
+        background-color: #88562A;
+    }
+
+
+    &.Gosu {
+        background-color: #82937f;
+    }
+
+
+    &.Grace {
+        background-color: #ccc;
+    }
+
+
+    &.Grammatical.Framework {
+        background-color: #79aa7a;
+    }
+
+
+    &.Groovy {
+        background-color: #e69f56;
+    }
+
+
+    &.Groovy Server Pages {
+        background-color: #ccc;
+    }
+
+
+    &.Hack {
+        background-color: #878787;
+    }
+
+
+    &.Harbour {
+        background-color: #0e60e3;
+    }
+
+
+    &.Haskell {
+        background-color: #5e5086;
+    }
+
+
+    &.Haxe {
+        background-color: #df7900;
+    }
+
+
+    &.HCL {
+        background-color: #ccc;
+    }
+
+
+    &.HLSL {
+        background-color: #ccc;
+    }
+
+
+    &.HTML {
+        background-color: #e34c26;
+    }
+
+
+    &.Hy {
+        background-color: #7790B2;
+    }
+
+
+    &.HyPhy {
+        background-color: #ccc;
+    }
+
+
+    &.IDL {
+        background-color: #a3522f;
+    }
+
+
+    &.Idris {
+        background-color: #ccc;
+    }
+
+
+    &.IGOR.Pro {
+        background-color: #ccc;
+    }
+
+
+    &.Inform.7 {
+        background-color: #ccc;
+    }
+
+
+    &.Inno.Setup {
+        background-color: #ccc;
+    }
+
+
+    &.Io {
+        background-color: #a9188d;
+    }
+
+
+    &.Ioke {
+        background-color: #078193;
+    }
+
+
+    &.Isabelle {
+        background-color: #FEFE00;
+    }
+
+
+    &.Isabelle.ROOT {
+        background-color: #ccc;
+    }
+
+
+    &.J {
+        background-color: #9EEDFF;
+    }
+
+
+    &.Jasmin {
+        background-color: #ccc;
+    }
+
+
+    &.Java {
+        background-color: #b07219;
+    }
+
+
+    &.Java Server Pages {
+        background-color: #ccc;
+    }
+
+
+    &.JavaScript {
+        background-color: #f1e05a;
+    }
+
+
+    &.JFlex {
+        background-color: #ccc;
+    }
+
+
+    &.Jison {
+        background-color: #ccc;
+    }
+
+
+    &.Jison.Lex {
+        background-color: #ccc;
+    }
+
+
+    &.Jolie {
+        background-color: #843179;
+    }
+
+
+    &.JSONiq {
+        background-color: #40d47e;
+    }
+
+
+    &.JSX {
+        background-color: #ccc;
+    }
+
+
+    &.Julia {
+        background-color: #a270ba;
+    }
+
+
+    &.Jupyter.Notebook {
+        background-color: #DA5B0B;
+    }
+
+
+    &.KiCad {
+        background-color: #ccc;
+    }
+
+
+    &.Kotlin {
+        background-color: #F18E33;
+    }
+
+
+    &.KRL {
+        background-color: #28431f;
+    }
+
+
+    &.LabVIEW {
+        background-color: #ccc;
+    }
+
+
+    &.Lasso {
+        background-color: #999999;
+    }
+
+
+    &.Lean {
+        background-color: #ccc;
+    }
+
+
+    &.Lex {
+        background-color: #DBCA00;
+    }
+
+
+    &.LFE {
+        background-color: #ccc;
+    }
+
+
+    &.LilyPond {
+        background-color: #ccc;
+    }
+
+
+    &.Limbo {
+        background-color: #ccc;
+    }
+
+
+    &.Literate.Agda {
+        background-color: #ccc;
+    }
+
+
+    &.Literate.CoffeeScript {
+        background-color: #ccc;
+    }
+
+
+    &.Literate.Haskell {
+        background-color: #ccc;
+    }
+
+
+    &.LiveScript {
+        background-color: #499886;
+    }
+
+
+    &.LLVM {
+        background-color: #185619;
+    }
+
+
+    &.Logos {
+        background-color: #ccc;
+    }
+
+
+    &.Logtalk {
+        background-color: #ccc;
+    }
+
+
+    &.LOLCODE {
+        background-color: #cc9900;
+    }
+
+
+    &.LookML {
+        background-color: #652B81;
+    }
+
+
+    &.LoomScript {
+        background-color: #ccc;
+    }
+
+
+    &.LSL {
+        background-color: #3d9970;
+    }
+
+
+    &.Lua {
+        background-color: #000080;
+    }
+
+
+    &.M {
+        background-color: #ccc;
+    }
+
+
+    &.M4 {
+        background-color: #ccc;
+    }
+
+
+    &.M4Sugar {
+        background-color: #ccc;
+    }
+
+
+    &.Makefile {
+        background-color: #427819;
+    }
+
+
+    &.Mako {
+        background-color: #ccc;
+    }
+
+
+    &.Mask {
+        background-color: #f97732;
+    }
+
+
+    &.Mathematica {
+        background-color: #ccc;
+    }
+
+
+    &.Matlab {
+        background-color: #bb92ac;
+    }
+
+
+    &.Max {
+        background-color: #c4a79c;
+    }
+
+
+    &.MAXScript {
+        background-color: #00a6a6;
+    }
+
+
+    &.Mercury {
+        background-color: #ff2b2b;
+    }
+
+
+    &.Meson {
+        background-color: #007800;
+    }
+
+
+    &.Metal {
+        background-color: #8f14e9;
+    }
+
+
+    &.MiniD {
+        background-color: #ccc;
+    }
+
+
+    &.Mirah {
+        background-color: #c7a938;
+    }
+
+
+    &.Modelica {
+        background-color: #ccc;
+    }
+
+
+    &.Modula-2 {
+        background-color: #ccc;
+    }
+
+
+    &.Module Management System {
+        background-color: #ccc;
+    }
+
+
+    &.Monkey {
+        background-color: #ccc;
+    }
+
+
+    &.Moocode {
+        background-color: #ccc;
+    }
+
+
+    &.MoonScript {
+        background-color: #ccc;
+    }
+
+
+    &.MQL4 {
+        background-color: #62A8D6;
+    }
+
+
+    &.MQL5 {
+        background-color: #4A76B8;
+    }
+
+
+    &.MTML {
+        background-color: #b7e1f4;
+    }
+
+
+    &.MUF {
+        background-color: #ccc;
+    }
+
+
+    &.mupad {
+        background-color: #ccc;
+    }
+
+
+    &.Myghty {
+        background-color: #ccc;
+    }
+
+
+    &.NCL {
+        background-color: #28431f;
+    }
+
+
+    &.Nemerle {
+        background-color: #3d3c6e;
+    }
+
+
+    &.nesC {
+        background-color: #94B0C7;
+    }
+
+
+    &.NetLinx {
+        background-color: #0aa0ff;
+    }
+
+
+    &.NetLinxplusERB {
+        background-color: #747faa;
+    }
+
+
+    &.NetLogo {
+        background-color: #ff6375;
+    }
+
+
+    &.NewLisp {
+        background-color: #87AED7;
+    }
+
+
+    &.Nginx {
+        background-color: #9469E9;
+    }
+
+
+    &.Nim {
+        background-color: #37775b;
+    }
+
+
+    &.Nit {
+        background-color: #009917;
+    }
+
+
+    &.Nix {
+        background-color: #7e7eff;
+    }
+
+
+    &.NSIS {
+        background-color: #ccc;
+    }
+
+
+    &.Nu {
+        background-color: #c9df40;
+    }
+
+
+    &.NumPy {
+        background-color: #ccc;
+    }
+
+
+    &.Objective-C {
+        background-color: #438eff;
+    }
+
+
+    &.Objective-Cplusplus {
+        background-color: #6866fb;
+    }
+
+
+    &.Objective-J {
+        background-color: #ff0c5a;
+    }
+
+
+    &.OCaml {
+        background-color: #3be133;
+    }
+
+
+    &.Omgrofl {
+        background-color: #cabbff;
+    }
+
+
+    &.ooc {
+        background-color: #b0b77e;
+    }
+
+
+    &.Opa {
+        background-color: #ccc;
+    }
+
+
+    &.Opal {
+        background-color: #f7ede0;
+    }
+
+
+    &.OpenCL {
+        background-color: #ccc;
+    }
+
+
+    &.OpenEdge.ABL {
+        background-color: #ccc;
+    }
+
+
+    &.OpenRC.runscript {
+        background-color: #ccc;
+    }
+
+
+    &.OpenSCAD {
+        background-color: #ccc;
+    }
+
+
+    &.Ox {
+        background-color: #ccc;
+    }
+
+
+    &.Oxygene {
+        background-color: #cdd0e3;
+    }
+
+
+    &.Oz {
+        background-color: #fab738;
+    }
+
+
+    &.P4 {
+        background-color: #7055b5;
+    }
+
+
+    &.Pan {
+        background-color: #cc0000;
+    }
+
+
+    &.Papyrus {
+        background-color: #6600cc;
+    }
+
+
+    &.Parrot {
+        background-color: #f3ca0a;
+    }
+
+
+    &.Parrot.Assembly {
+        background-color: #ccc;
+    }
+
+
+    &.Parrot Internal Representation {
+        background-color: #ccc;
+    }
+
+
+    &.Pascal {
+        background-color: #E3F171;
+    }
+
+
+    &.PAWN {
+        background-color: #dbb284;
+    }
+
+
+    &.Pep8 {
+        background-color: #C76F5B;
+    }
+
+
+    &.Perl {
+        background-color: #0298c3;
+    }
+
+
+    &.Perl.6 {
+        background-color: #0000fb;
+    }
+
+
+    &.PHP {
+        background-color: #4F5D95;
+    }
+
+
+    &.PicoLisp {
+        background-color: #ccc;
+    }
+
+
+    &.PigLatin {
+        background-color: #fcd7de;
+    }
+
+
+    &.Pike {
+        background-color: #005390;
+    }
+
+
+    &.PLpgSQL {
+        background-color: #ccc;
+    }
+
+
+    &.PLSQL {
+        background-color: #dad8d8;
+    }
+
+
+    &.PogoScript {
+        background-color: #d80074;
+    }
+
+
+    &.Pony {
+        background-color: #ccc;
+    }
+
+
+    &.PostScript {
+        background-color: #da291c;
+    }
+
+
+    &.POV-Ray.SDL {
+        background-color: #ccc;
+    }
+
+
+    &.PowerBuilder {
+        background-color: #8f0f8d;
+    }
+
+
+    &.PowerShell {
+        background-color: #012456;
+    }
+
+
+    &.Processing {
+        background-color: #0096D8;
+    }
+
+
+    &.Prolog {
+        background-color: #74283c;
+    }
+
+
+    &.Propeller.Spin {
+        background-color: #7fa2a7;
+    }
+
+
+    &.Puppet {
+        background-color: #302B6D;
+    }
+
+
+    &.Pure.Data {
+        background-color: #91de79;
+    }
+
+
+    &.PureBasic {
+        background-color: #5a6986;
+    }
+
+
+    &.PureScript {
+        background-color: #1D222D;
+    }
+
+
+    &.Python {
+        background-color: #3572A5;
+    }
+
+
+    &.Python.console {
+        background-color: #ccc;
+    }
+
+
+    &.QMake {
+        background-color: #ccc;
+    }
+
+
+    &.QML {
+        background-color: #44a51c;
+    }
+
+
+    &.R {
+        background-color: #198CE7;
+    }
+
+
+    &.Racket {
+        background-color: #22228f;
+    }
+
+
+    &.Ragel {
+        background-color: #9d5200;
+    }
+
+
+    &.RAML {
+        background-color: #77d9fb;
+    }
+
+
+    &.Rascal {
+        background-color: #fffaa0;
+    }
+
+
+    &.REALbasic {
+        background-color: #ccc;
+    }
+
+
+    &.Reason {
+        background-color: #ccc;
+    }
+
+
+    &.Rebol {
+        background-color: #358a5b;
+    }
+
+
+    &.Red {
+        background-color: #f50000;
+    }
+
+
+    &.Redcode {
+        background-color: #ccc;
+    }
+
+
+    &.RenPy {
+        background-color: #ff7f7f;
+    }
+
+
+    &.RenderScript {
+        background-color: #ccc;
+    }
+
+
+    &.REXX {
+        background-color: #ccc;
+    }
+
+
+    &.Ring {
+        background-color: #0e60e3;
+    }
+
+
+    &.RobotFramework {
+        background-color: #ccc;
+    }
+
+
+    &.Roff {
+        background-color: #ecdebe;
+    }
+
+
+    &.Rouge {
+        background-color: #cc0088;
+    }
+
+
+    &.Ruby {
+        background-color: #701516;
+    }
+
+
+    &.RUNOFF {
+        background-color: #665a4e;
+    }
+
+
+    &.Rust {
+        background-color: #dea584;
+    }
+
+
+    &.Sage {
+        background-color: #ccc;
+    }
+
+
+    &.SaltStack {
+        background-color: #646464;
+    }
+
+
+    &.SAS {
+        background-color: #B34936;
+    }
+
+
+    &.Scala {
+        background-color: #c22d40;
+    }
+
+
+    &.Scheme {
+        background-color: #1e4aec;
+    }
+
+
+    &.Scilab {
+        background-color: #ccc;
+    }
+
+
+    &.Self {
+        background-color: #0579aa;
+    }
+
+
+    &.ShaderLab {
+        background-color: #ccc;
+    }
+
+
+    &.Shell {
+        background-color: #89e051;
+    }
+
+
+    &.ShellSession {
+        background-color: #ccc;
+    }
+
+
+    &.Shen {
+        background-color: #120F14;
+    }
+
+
+    &.Slash {
+        background-color: #007eff;
+    }
+
+
+    &.Smali {
+        background-color: #ccc;
+    }
+
+
+    &.Smalltalk {
+        background-color: #596706;
+    }
+
+
+    &.Smarty {
+        background-color: #ccc;
+    }
+
+
+    &.SMT {
+        background-color: #ccc;
+    }
+
+
+    &.SourcePawn {
+        background-color: #5c7611;
+    }
+
+
+    &.SQF {
+        background-color: #3F3F3F;
+    }
+
+
+    &.SQLPL {
+        background-color: #ccc;
+    }
+
+
+    &.Squirrel {
+        background-color: #800000;
+    }
+
+
+    &.SRecode.Template {
+        background-color: #348a34;
+    }
+
+
+    &.Stan {
+        background-color: #b2011d;
+    }
+
+
+    &.Standard.ML {
+        background-color: #dc566d;
+    }
+
+
+    &.Stata {
+        background-color: #ccc;
+    }
+
+
+    &.SuperCollider {
+        background-color: #46390b;
+    }
+
+
+    &.Swift {
+        background-color: #ffac45;
+    }
+
+
+    &.SystemVerilog {
+        background-color: #DAE1C2;
+    }
+
+
+    &.Tcl {
+        background-color: #e4cc98;
+    }
+
+
+    &.Tcsh {
+        background-color: #ccc;
+    }
+
+
+    &.Terra {
+        background-color: #00004c;
+    }
+
+
+    &.TeX {
+        background-color: #3D6117;
+    }
+
+
+    &.Thrift {
+        background-color: #ccc;
+    }
+
+
+    &.TI.Program {
+        background-color: #A0AA87;
+    }
+
+
+    &.TLA {
+        background-color: #ccc;
+    }
+
+
+    &.Turing {
+        background-color: #cf142b;
+    }
+
+
+    &.TXL {
+        background-color: #ccc;
+    }
+
+
+    &.TypeScript {
+        background-color: #2b7489;
+    }
+
+
+    &.Unified Parallel C {
+        background-color: #ccc;
+    }
+
+
+    &.Unix.Assembly {
+        background-color: #ccc;
+    }
+
+
+    &.Uno {
+        background-color: #ccc;
+    }
+
+
+    &.UnrealScript {
+        background-color: #a54c4d;
+    }
+
+
+    &.UrWeb {
+        background-color: #ccc;
+    }
+
+
+    &.Vala {
+        background-color: #fbe5cd;
+    }
+
+
+    &.VCL {
+        background-color: #ccc;
+    }
+
+
+    &.Verilog {
+        background-color: #b2b7f8;
+    }
+
+
+    &.VHDL {
+        background-color: #adb2cb;
+    }
+
+
+    &.Vim.script {
+        background-color: #199f4b;
+    }
+
+
+    &.Visual.Basic {
+        background-color: #945db7;
+    }
+
+
+    &.Volt {
+        background-color: #1F1F1F;
+    }
+
+
+    &.Vue {
+        background-color: #2c3e50;
+    }
+
+
+    &.Web Ontology Language {
+        background-color: #9cc9dd;
+    }
+
+
+    &.WebAssembly {
+        background-color: #04133b;
+    }
+
+
+    &.WebIDL {
+        background-color: #ccc;
+    }
+
+
+    &.wisp {
+        background-color: #7582D1;
+    }
+
+
+    &.X10 {
+        background-color: #4B6BEF;
+    }
+
+
+    &.xBase {
+        background-color: #403a40;
+    }
+
+
+    &.XC {
+        background-color: #99DA07;
+    }
+
+
+    &.Xojo {
+        background-color: #ccc;
+    }
+
+
+    &.XPages {
+        background-color: #ccc;
+    }
+
+
+    &.XProc {
+        background-color: #ccc;
+    }
+
+
+    &.XQuery {
+        background-color: #5232e7;
+    }
+
+
+    &.XS {
+        background-color: #ccc;
+    }
+
+
+    &.XSLT {
+        background-color: #EB8CEB;
+    }
+
+
+    &.Xtend {
+        background-color: #ccc;
+    }
+
+
+    &.Yacc {
+        background-color: #4B6C4B;
+    }
+
+
+    &.Zephir {
+        background-color: #118f9e;
+    }
+
+
+    &.Zimpl {
+        background-color: #ccc;
+    }
+
+}
